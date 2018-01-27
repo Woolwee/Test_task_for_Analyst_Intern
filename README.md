@@ -1,8 +1,8 @@
 # Test_task_for_Analyst_Intern
 ## Prologue
 It was test task for the vacancy Analyst intern in one of the Russian company.
-That was summer time and they didn't event unswer me so I decided to post here the part of this task
-for have some my code example
+That was summer time and they didn't even answer me so I decided to post here the part of this task
+for have one of my code example
 
 ## What was the task?
 the task was in adding the column of subject of Russion Federation 
